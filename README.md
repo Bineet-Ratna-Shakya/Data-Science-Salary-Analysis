@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This project is part of the Applied Data Science module at London Metropolitan University, aimed at analyzing a dataset containing salaries of data science professionals from 2020 to 2023. The analysis focuses on various aspects such as salary trends, job titles, experience levels, and more.
+This project is aimed at analyzing a dataset containing salaries of data science professionals from 2020 to 2023. The analysis focuses on various aspects such as salary trends, job titles, experience levels, and more.
 
 ## Objectives
 
@@ -30,22 +30,22 @@ The objectives of this data analysis project include:
 
 The dataset contains information about salaries of data science professionals. It includes the following columns:
 
-- **work_year**: The year the data was recorded.
-- **salary**: The salary amount in the local currency.
-- **salary_in_usd**: The salary amount converted to USD.
-- **remote_ratio**: The percentage of remote work.
-- **experience_level**: The level of experience of the employee.
-- **employment_type**: The type of employment.
-- **job_title**: The job title of the employee.
-- **salary_currency**: The currency in which the salary is paid.
-- **employee_residence**: The country of residence of the employee.
-- **company_location**: The location of the company.
-- **company_size**: The size of the company.
+- work_year: The year the data was recorded.
+- salary: The salary amount in the local currency.
+- salary_in_usd: The salary amount converted to USD.
+- remote_ratio: The percentage of remote work.
+- experience_level: The level of experience of the employee.
+- employment_type: The type of employment.
+- job_title: The job title of the employee.
+- salary_currency: The currency in which the salary is paid.
+- employee_residence: The country of residence of the employee.
+- company_location: The location of the company.
+- company_size: The size of the company.
 
 ### Data Overview
 
-- **Entries**: 3,755
-- **Columns**: 11
+- Entries: 3,755
+- Columns: 11
 
 ## Data Preparation
 
@@ -75,11 +75,11 @@ Counting the unique values in each column.
 
 Calculating various summary statistics to understand the dataset better.
 
-- **Sum**: Total of all salary values.
-- **Mean**: Average salary.
-- **Standard Deviation**: Measure of the amount of variation in salary.
-- **Skewness**: Measure of the asymmetry of the salary distribution.
-- **Kurtosis**: Measure of the "tailedness" of the salary distribution.
+- Sum: Total of all salary values.
+- Mean: Average salary.
+- Standard Deviation: Measure of the amount of variation in salary.
+- Skewness: Measure of the asymmetry of the salary distribution.
+- Kurtosis: Measure of the "tailedness" of the salary distribution.
 
 ### Correlation Analysis
 
